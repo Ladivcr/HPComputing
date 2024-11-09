@@ -1,2 +1,2 @@
 # HPComputing
-Project for High Performance Computing, UNAM
+Project for High Performance Computing
